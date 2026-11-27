@@ -5,8 +5,8 @@
  * Difficulty: Medium
  * Language: C++
  * Solved on: 28 Nov 2026
- * Solved at: 04:23:09 AM (UTC+05:30)
- * Solved at (UTC): 2026-11-27 22:53:09 UTC
+ * Solved at: 04:23:46 AM (UTC+05:30)
+ * Solved at (UTC): 2026-11-27 22:53:46 UTC
  * Created by Anunay Srivastava
  * Synced by: DSA Tracker
  */
