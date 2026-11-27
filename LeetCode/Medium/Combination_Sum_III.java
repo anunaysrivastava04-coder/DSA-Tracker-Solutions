@@ -5,13 +5,18 @@
  * Difficulty: Medium
  * Language: Java
  * Solved on: 28 Nov 2026
- * Solved at: 04:54:17 AM (UTC+05:30)
- * Solved at (UTC): 2026-11-27 23:24:17 UTC
+ * Solved at: 04:55:00 AM (UTC+05:30)
+ * Solved at (UTC): 2026-11-27 23:25:00 UTC
  * Created by Anunay Srivastava
  * Synced by: DSA Tracker
  */
 
-private void dfs(int start, int idx, int[] path) {
+this.n = n;
+        dfs(1, 0, new int[k]);
+        return ans;
+    }
+
+    private void dfs(int start, int idx, int[] path) {
 
         if (idx == k) {
             if (n == 0) {
@@ -25,16 +30,11 @@ private void dfs(int start, int idx, int[] path) {
 
             if (i > n) break;
 
-            path[idx] = i;
-            n -= i;
-
-            dfs(i + 1, idx + 1, path);
-
-            n += i;
-        return ans;
-    }
-        this.n = n;
-        dfs(1, 0, new int[k]);
     public List<List<Integer>> combinationSum3(int k, int n) {
         this.k = k;
-        }
+    int k, n;
+
+
+class Solution {
+    List<List<Integer>> ans = new ArrayList<>();
+import java.util.*;
