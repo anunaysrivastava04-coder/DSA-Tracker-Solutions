@@ -4,8 +4,8 @@
 # Difficulty: Medium
 # Language: Python3
 # Solved on: 27 Nov 2026
-# Solved at: 11:35:54 PM (UTC+05:30)
-# Solved at (UTC): 2026-11-27 18:05:54 UTC
+# Solved at: 11:38:38 PM (UTC+05:30)
+# Solved at (UTC): 2026-11-27 18:08:38 UTC
 # Created by Anunay Srivastava
 # Synced by: DSA Tracker
 
